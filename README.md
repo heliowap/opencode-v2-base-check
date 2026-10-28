@@ -1,3 +1,5 @@
+> **Moved.** This plugin now lives in [heliowap/opencode-plugins](https://github.com/heliowap/opencode-plugins/tree/main/plugins/base-check). Install: `opencode plugin add 'github:heliowap/opencode-plugins#main::path:plugins/base-check'`. This repository is archived.
+
 # opencode-v2-base-check
 
 An OpenCode v2 plugin that tells a session how stale its git base is **before the first prompt
